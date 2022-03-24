@@ -24,7 +24,7 @@
 
 <script>
 import Printers from "./Printers";
-import JSPM from "jsprintmanager";
+import * as JSPM from 'jsprintmanager'
 // import Vue from 'vue';
 
 export default {
