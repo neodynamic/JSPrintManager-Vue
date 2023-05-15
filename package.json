@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "jsprintmanager": "^4.0.7",
+    "jsprintmanager": "^5.0.4",
     "vue": "^2.6.11"
   },
   "devDependencies": {
